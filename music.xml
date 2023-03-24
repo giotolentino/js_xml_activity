@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MUSIC>
+    <SONG>
+        <TITLE>Buloy</TITLE>
+        <ARTIST>Parokya ni Edgar</ARTIST>
+        <RELEASE>1996</RELEASE>
+        <PRODUCER>Robert Javier</PRODUCER>
+        <SONGWRITER>Chito Miranda</SONGWRITER>
+        <EDITOR>Darius Semana</EDITOR>
+        <GENRES>
+            <GENRE_1>Pop</GENRE_1>
+            <GENRE_2>Holloween Music</GENRE_2>
+            <GENRE_3>Rock</GENRE_3>
+            <GENRE_4>Pinoy Rock</GENRE_4>
+            <GENRE_5>Alternative Rock</GENRE_5>
+        </GENRES>
+    </SONG>
+    <SONG>
+        <TITLE>Pangako</TITLE>
+        <ARTIST>Cueshe</ARTIST>
+        <RELEASE>2010</RELEASE>
+        <PRODUCER>Tred Monteras II</PRODUCER>
+        <SONGWRITER>Dosdos Jhunjie</SONGWRITER>
+        <EDITOR>Thennielle Monteras</EDITOR>
+        <GENRES>
+            <GENRE_1>Pinoy Rock</GENRE_1>
+            <GENRE_2>Pop</GENRE_2>
+            <GENRE_3>Rock</GENRE_3>
+            <GENRE_4>Drama</GENRE_4>
+            <GENRE_5>Romance</GENRE_5>
+        </GENRES>
+    </SONG>
+    <SONG>
+        <TITLE>Narda</TITLE>
+        <ARTIST>Kamikazee</ARTIST>
+        <RELEASE>2006</RELEASE>
+        <PRODUCER>Eric Perlas</PRODUCER>
+        <SONGWRITER>Jay Contreras</SONGWRITER>
+        <EDITOR>Jomal Linao</EDITOR>
+        <GENRES>
+            <GENRE_1>Post-Punk Revival</GENRE_1>
+            <GENRE_2>Alternative Rock</GENRE_2>
+            <GENRE_3>New Rave</GENRE_3>
+            <GENRE_4>Acoustic Rock</GENRE_4>
+            <GENRE_5>Indie Rock</GENRE_5>
+        </GENRES>
+    </SONG>
+    <SONG>
+        <TITLE>Salamat</TITLE>
+        <ARTIST>The Dawn</ARTIST>
+        <RELEASE>1989</RELEASE>
+        <PRODUCER>Teddy Diaz</PRODUCER>
+        <SONGWRITER>Bonnie Melocoton</SONGWRITER>
+        <EDITOR>David Gonzales</EDITOR>
+        <GENRES>
+            <GENRE_1>Rock</GENRE_1>
+            <GENRE_2>Pop</GENRE_2>
+            <GENRE_3>Indonesian Rock</GENRE_3>
+            <GENRE_4>Indonesian Pop</GENRE_4>
+            <GENRE_5>Holiday</GENRE_5>
+        </GENRES>
+    </SONG>
+    <SONG>
+        <TITLE>Magbalik</TITLE>
+        <ARTIST>Callalily</ARTIST>
+        <RELEASE>2006</RELEASE>
+        <PRODUCER>Nicanor Aberlardo</PRODUCER>
+        <SONGWRITER>Kean Cipriano</SONGWRITER>
+        <EDITOR>Lem Belaro</EDITOR>
+        <GENRES>
+            <GENRE_1>Pop Rock</GENRE_1>
+            <GENRE_2>Rock</GENRE_2>
+            <GENRE_3>Pop</GENRE_3>
+            <GENRE_4>Pinoy Rock</GENRE_4>
+            <GENRE_5>Indonesian Rock</GENRE_5>
+        </GENRES>
+    </SONG>
+</MUSIC>
